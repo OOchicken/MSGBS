@@ -9,7 +9,7 @@ http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-par
 
 
 .docx in github? Are you crazy?
-===============================
+-------------------------------
 
 Well, yeah, but not for that reason. Github has great community involvement tools and utilities that we wanted to leverage. While we can't use git's diff tools, Word includes its own suite of file comparasson, and neither of us particularly wants to learn a typesetting script like LaTeX.
 
@@ -22,6 +22,6 @@ Here's how to compare 2 documents in Microsoft Word, taken directly from MSWord'
 
 
 How can I help?
-===============
+---------------
 
 Be active on Github. Propose changes and issues. A contribution guide is comming soon, so you'll be able to propose changes to the files themselves.
