@@ -3,7 +3,7 @@ Mobile Suit Gundam Battle System
 
 Welcome to the Mobile Suit Gundam Battle System (MSGBS), an exciting miniatures game for 2 or more players, in which teams can act out the battles of the One Year War from the Anime "Mobile Suit Gundam". Each player commands a team of bipedal armored vehicles called mobile suits, fighting to complete various objectives on the game board. The rules for MSGBS are based on the rules of the popular "Warhammer 40,000" game system.
 
-If you're new to github, here's a great "getting started" reference.
+If you're new to github, here's a great "getting started" reference. If you aren't comfortable using a terminal, there exist a large number of free graphical programs that will let you interract with github. I'll look for some to recommend soon.
 
 http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oAdB970rAHT9QF
 
@@ -25,3 +25,7 @@ How can I help?
 ---------------
 
 Be active on Github and the MSGBS subreddit (www.reddit.com/r/MSGBS). Propose changes and issues. A contribution guide is comming soon, so you'll be able to propose changes to the files themselves.
+
+As you change files BE SURE to track them. Details on how to do so here:
+
+https://support.office.com/en-sg/article/Track-changes-while-you-edit-024158a3-7e62-4f05-8bb7-dc3ecf0295c4
