@@ -24,4 +24,4 @@ Here's how to compare 2 documents in Microsoft Word, taken directly from MSWord'
 How can I help?
 ---------------
 
-Be active on Github. Propose changes and issues. A contribution guide is comming soon, so you'll be able to propose changes to the files themselves.
+Be active on Github and the MSGBS subreddit (www.reddit.com/r/MSGBS). Propose changes and issues. A contribution guide is comming soon, so you'll be able to propose changes to the files themselves.
